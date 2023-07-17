@@ -51,6 +51,8 @@ class UserController extends Controller {
       },
     };
   }
+
+
 }
 
 module.exports = UserController;
